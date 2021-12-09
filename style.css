@@ -28,6 +28,9 @@ header {
 .header-right > a {
     display: none;
 }
+.header-right a i{
+    line-height: 70px;
+}
 .header-right ul {
     list-style: none;
     height: 100%;
